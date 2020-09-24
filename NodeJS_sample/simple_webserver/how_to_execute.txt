@@ -1,5 +1,0 @@
-1. Install NodeJS
-2. open command line
-3. type "node web-server.js"
-4. open browser
-5. go to 127.0.0.1:1337
